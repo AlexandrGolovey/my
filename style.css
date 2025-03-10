@@ -16,7 +16,7 @@ body {
 header {
     background-image: url(shelf-top.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: top;
     display: flex;
     flex-direction: column;
@@ -80,7 +80,7 @@ nav {
 main {
     background-image: url(shelf-middle.png);
     background-repeat: repeat-y;
-    background-size: 100%;
+    background-size: contain;
     background-position: top;
     display: flex;
     flex-direction: column;
@@ -91,7 +91,7 @@ main {
 footer {
     background-image: url(shelf-bottom.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: top;
     display: flex;
     flex-direction: column;
