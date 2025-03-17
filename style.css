@@ -25,23 +25,24 @@ header {
     align-items: center;
     width: 100%;
     margin-top: 20px;
+    gap: 70px;
 }
 
-.nav_content {
+/* .nav_content {
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
     align-items: center;
     gap: 94px;
-}
+} */
 
 .title {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
-    gap: 50px; 
+    gap: 65px; 
     padding-top: 20px;
 }
 
@@ -62,12 +63,14 @@ input[type="submit"] {
     height: 100%;
     background: linear-gradient(#0d1518 -19.55%, #d5f2ff 82.49%);
     color: initial;
+    padding: 10px;
 }
 
 input[type="search"] {
     width: -webkit-fill-available;
     border-radius: 25px 0 0 25px;
     height: 100%;
+    padding: 10px;
 }
 
 nav {
@@ -75,13 +78,13 @@ nav {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    gap: 450px;
+    gap: 460px;
 }
 
 .navigation a {
     background: linear-gradient(#0d1518 -19.55%, #d5f2ff 82.49%);
     border-radius: 4px;
-    padding: 2px 0;
+    padding: 4px;
     width: 150px;
     text-align: center;
 }
@@ -89,12 +92,15 @@ nav {
 .navigation {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: stretch;
     width: 100%;
     justify-content: space-evenly;
-    padding: 7px 0;
+    padding: 6px 0;
     flex-wrap: wrap;
+    align-content: stretch;
 }
+
+/* main */
 
 main {
     background-image: url(shelf-middle.png);
@@ -105,18 +111,11 @@ main {
     flex-direction: column;
     align-items: center;
     width: 100%;
+    text-align: center;
 }
 
-footer {
-    background-image: url(shelf-bottom.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: top;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    padding: 40px;
+.content {
+    padding: 10px 150px;
 }
 
 img {
@@ -138,11 +137,25 @@ img {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    flex: 0 1 calc(100% / 8);
-    box-sizing: border-box;
+    flex: 0 1 calc(100% / 7);
     padding: 0 5px;
-    width: 174px;
 }
+
+/* footer */
+
+footer {
+    background-image: url(shelf-bottom.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    /* padding: 40px; */
+    height: 451px;
+}
+
 
 /* @media (min-width: 484px) and (max-width: 496px) {
     .portrait.extendPortrait .gameControls {
