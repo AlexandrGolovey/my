@@ -278,3 +278,33 @@
         </div>
     </div>
 </div>
+
+; refrence from uaserial.com
+<div class="col">
+    <div class="item">
+        <a href="/berlin-er-krank-berlin/season-1" title="Берлінська швидка">
+            <div class="img-wrap">
+                <img loading="lazy" class="absolute__fill cover" src="/images/serials/67/67c57e81d6055071486322.webp" alt="Серіал 'Берлінська швидка' постер">            
+                <div class="play__hover absolute__fill flex">
+                    <div class="hover__background absolute__fill"></div>
+                    <div class="play__button flex">
+                        <div class="icon icon--mask icon--mask--play"></div>
+                    </div>
+                    <div class="lists__container w--100 flex"><!----> <!----></div>
+                </div>
+                <div class="last-episode overflow--hor">1 сезон 5 серія</div>
+            </div>
+        </a>
+        <div class="item__data flex column">
+            <a class="w--100" href="/berlin-er-krank-berlin/season-1">
+                <div class="name f--700 color-white js-popper" title="Берлінська швидка">Берлінська швидка</div>
+                <div class="popper" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate(143px, 593px);" data-popper-placement="top">Берлінська швидка</div>
+            </a>
+            <div class="info flex">
+                <a href="/selection/serial/year-2025" class="info__item info__item--year color-white selection__badge">2025</a>
+                <a href="/selection/serial/genre-drama" title="драма" class="info__item info__item--genre selection__badge overflow--hor">драма</a>
+            </div>
+        </div>
+        <div data-mark="6.50" class="mark movie-mark color-bg bg-orange">6.50</div>      
+    </div>
+</div>
