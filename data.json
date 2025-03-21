@@ -4,63 +4,63 @@
         "link": "https://uaserial.com/movie-get-out",
         "year": 2017,
         "cover":"https://artofthemovies.co.uk/cdn/shop/files/IMG_6918_720x@2x.jpg?v=1715961921",
-        "genre": "horror"
+        "genre": "Жахи"
     },
     "film2":{
         "name": "Ми",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link": "https://uaserial.com/movie-us",
+        "year": 2019,
+        "cover":"https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_.jpg",
+        "genre": "Жахи"
     },
     "film3":{
         "name": "Ноу",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link": "https://uaserial.com/movie-nope-1/aa",
+        "year": 2022,
+        "cover":"https://i.pinimg.com/originals/7e/94/68/7e946826508bb3f1d9866071f221b97f.jpg",
+        "genre": "Жахи"
     },
     "film4":{
         "name": "Судна ніч",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link": "https://uaserial.com/movie-the-purge",
+        "year": 2013,
+        "cover":"https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_.jpg",
+        "genre": "Трилер"
     },
     "film5":{
         "name": "13 гріхів",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link":"https://uaserial.com/movie-13-sins",
+        "year": 2014,
+        "cover": "https://upload.wikimedia.org/wikipedia/uk/b/bc/13_Sins_poster.jpg",
+        "genre": "Трилер"
     },
     "film6": {
         "name": "Апгрейд",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link": "https://uaserial.com/movie-upgrade",
+        "year": 2018,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/thumb/f/f5/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%90%D0%BF%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%C2%BB%2C_2018.jpg/338px-%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%90%D0%BF%D0%B3%D1%80%D0%B5%D0%B9%D0%B4%C2%BB%2C_2018.jpg",
+        "genre": "Бойовик"
     },
     "film7":{
         "name": "Ма",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link": "https://uaserial.com/movie-ma",
+        "year": 2019,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/thumb/3/38/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%C2%ABMa%C2%BB%2C_2019.jpg/338px-%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%C2%ABMa%C2%BB%2C_2019.jpg",
+        "genre": "Жахи"
     },
     "film8":{
         "name": "Одержимість",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link": "https://uaserial.com/movie-whiplash",
+        "year": 2014,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/0/01/Whiplash_poster.jpg",
+        "genre": "Драма"
     },
     "film9":{
         "name": "Полювання",
-        "link": ,
-        "year": 1988,
-        "cover":"",
-        "genre": "horror"
+        "link": "https://uaserial.com/movie-the-hunt",
+        "year": 2020,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/a/a9/The_Hunt_2020_poster.png",
+        "genre": "Трилер"
     },
     "film10":{
         "name": "Скло",
