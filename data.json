@@ -138,5 +138,208 @@
         "year": 1997,
         "cover":"https://upload.wikimedia.org/wikipedia/uk/2/21/%D0%A0%D0%BE%D0%B7%D1%83%D0%BC%D0%BD%D0%B8%D0%BA_%D0%92%D1%96%D0%BB%D0%BB_%D0%93%D0%B0%D0%BD%D1%82%D1%96%D0%BD%D2%91.jpg",
         "genre": "Драма"
+    },
+    "film21":{
+        "name": "Чорний телефон",
+        "link": "https://uaserial.com/movie-the-black-phone",
+        "year": 2022,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/6/67/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD.jpg",
+        "genre": "Жаши"
+    },
+    "film22":{
+        "name": "Меган",
+        "link": "https://uaserial.com/movie-m3gan",
+        "year": 2023,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/a/a2/M3GAN_%D1%83%D0%BA%D1%80_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.png",
+        "genre": "Жаши"
+    },
+    "film23":{
+        "name": "Ікс",
+        "link": "https://uaserial.com/movie-x",
+        "year": 2022,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/c/c2/X_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80%29.jpg",
+        "genre": "Жаши"
+    },
+    "film24":{
+        "name": "Спадковість",
+        "link": "https://uaserial.com/movie-hereditary",
+        "year": 2018,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/3/3f/%D0%A1%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C_%282018%29_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg",
+        "genre": "Жаши"
+    },
+    "film25":{
+        "name": "Відьма",
+        "link": "https://uaserial.com/movie-the-vvitch-a-new-england-folktale",
+        "year": 2015,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/d/d3/The_Witch_poster.jpg",
+        "genre": "Жаши"
+    },
+    "film26":{
+        "name": "Догма",
+        "link": "https://uaserial.com/movie-dogma",
+        "year": 1999,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/1/1f/%D0%94%D0%BE%D0%B3%D0%BC%D0%B0_%28%D1%84%D1%96%D0%BB%D1%8C%D0%BC%29.jpg",
+        "genre": "Комедія"
+    },
+    "film27":{
+        "name": "Джей та Мовчазний Боб завдають удар у відповідь",
+        "link": "https://uaserial.com/movie-jay-and-silent-bob-strike-back",
+        "year": 2001,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/e/ea/Jaybob01film.jpg",
+        "genre": "Комедія"
+    },
+    "film28":{
+        "name": "Все завжди і водночас",
+        "link": "https://uaserial.com/movie-everything-everywhere-all-at-once",
+        "year": 2022,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/6/66/%D0%92%D1%81%D0%B5_%D1%81%D0%BA%D1%80%D1%96%D0%B7%D1%8C_%D1%96_%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D1%83_-_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.png",
+        "genre": "Фантастика"
+    },
+    "film29":{
+        "name": "Прибуття",
+        "link": "https://uaserial.com/movie-arrival",
+        "year": 2016,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/8/8f/%D0%9F%D1%80%D0%B8%D0%B1%D1%83%D1%82%D1%82%D1%8F_%28%D1%84%D1%96%D0%BB%D1%8C%D0%BC%2C_2016%29.jpg",
+        "genre": "Фантастика"
+    },
+    "film30":{
+        "name": "Пила",
+        "link": "https://uaserial.com/movie-saw",
+        "year": 2004,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/3/34/Saw_poster.JPG",
+        "genre": "Трилер"
+    },
+    "film31":{
+        "name": "Пила 2",
+        "link": "https://uaserial.com/movie-saw-ii",
+        "year": 2005,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/8/8c/Saw_II.jpg",
+        "genre": "Трилер"
+    },
+    "film32":{
+        "name": "Пила 3",
+        "link": "https://uaserial.com/movie-saw-iii",
+        "year": 2006,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/f/f6/Saw3_cape10.jpg",
+        "genre": "Трилер"
+    },
+    "film33":{
+        "name": "Пила 4",
+        "link": "https://uaserial.com/movie-saw-iv",
+        "year": 2007,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/3/35/Saw4final.jpg",
+        "genre": "Трилер"
+    },
+    "film34":{
+        "name": "Пила 5",
+        "link": "https://uaserial.com/movie-saw-v",
+        "year": 2008,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/e/ec/Saw_V_New_Poster.jpg",
+        "genre": "Трилер"
+    },
+    "film35":{
+        "name": "Пила 6",
+        "link": "https://uaserial.com/movie-saw-vi",
+        "year": 2009,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/thumb/4/43/%D0%9F%D0%B8%D0%BB%D0%B0_6.jpg/200px-%D0%9F%D0%B8%D0%BB%D0%B0_6.jpg",
+        "genre": "Трилер"
+    },
+    "film36":{
+        "name": "Пила 7: 3D",
+        "link": "https://uaserial.com/movie-saw-3d",
+        "year": 2010,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/8/8a/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%9F%D0%B8%D0%BB%D0%B0_7%C2%BB_%28%D0%B0%D0%BD%D0%B3%D0%BB.Saw_3D%2C_2010%29.jpg",
+        "genre": "Трилер"
+    },
+    "film37":{
+        "name": "Пила 8",
+        "link": "https://uaserial.com/movie-jigsaw",
+        "year": 2017,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/f/f1/%C2%AB%D0%9F%D0%B8%D0%BB%D0%B0_8%C2%BB_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80%29.jpg",
+        "genre": "Трилер"
+    },
+    "film38":{
+        "name": "Пила 9: Спіраль",
+        "link": "https://uaserial.com/movie-spiral",
+        "year": 2021,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/4/49/%D0%9F%D0%B8%D0%BB%D0%B0_%D0%A1%D0%BF%D1%96%D1%80%D0%B0%D0%BB%D1%8C_%282021%29_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg",
+        "genre": "Трилер"
+    },
+    "film39":{
+        "name": "Пила X",
+        "link": "https://uaserial.com/movie-saw-x",
+        "year": 2023,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/a/a3/%D0%9F%D0%B8%D0%BB%D0%B0_X_%282023%29_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg",
+        "genre": "Трилер"
+    },
+    "film40":{
+        "name": "Щасливий день смерті",
+        "link": "https://uaserial.com/movie-happy-death-day",
+        "year": 2017,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/4/4e/%D0%A9%D0%B0%D1%81%D0%BB%D0%B8%D0%B2%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%96_%28%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83%29.jpeg",
+        "genre": "Трилер"
+    },
+    "film41":{
+        "name": "Щасливий день смерті 2",
+        "link": "https://uaserial.com/movie-happy-death-day-2u",
+        "year": 2019,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/d/df/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%A9%D0%B0%D1%81%D0%BB%D0%B8%D0%B2%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%96_2%C2%BB%2C_2019.jpg",
+        "genre": "Трилер"
+    },
+    "film42":{
+        "name": "Людина-невидимка",
+        "link": "https://uaserial.com/movie-the-invisible-man",
+        "year": 2020,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/3/3a/The_Invisible_Man_%282020_film%29_-_release_poster.jpg",
+        "genre": "Трилер"
+    },
+    "film43":{
+        "name": "Вбивство священного оленя",
+        "link": "https://uaserial.com/movie-the-killing-of-a-sacred-deer/aa",
+        "year": 2017,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/4/4b/The_Killing_of_a_Sacred_Deer_poster.jpg",
+        "genre": "Трилер"
+    },
+    "film44":{
+        "name": "Сонцестояння",
+        "link": "https://uaserial.com/movie-midsommar/a",
+        "year": 2019,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/8/81/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%A1%D0%BE%D0%BD%D1%86%D0%B5%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D1%8F%C2%BB%2C_2019.jpg",
+        "genre": "Трилер"
+    },
+    "film45":{
+        "name": "Перл",
+        "link": "https://uaserial.com/movie-pearl",
+        "year": 2022,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/a/a5/%D0%9F%D0%B5%D1%80%D0%BB_2022.jpg",
+        "genre": "Трилер"
+    },
+    "film46":{
+        "name": "МаХХХін",
+        "link": "https://uaserial.com/movie-maxxxine",
+        "year": 2024,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/d/dc/%D0%9C%D0%B0%D0%A5%D0%A5%D0%A5%D1%96%D0%BD_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%83%D0%BA%D1%80.jpg",
+        "genre": "Трилер"
+    },
+    "film47":{
+        "name": "Ворог",
+        "link": "https://uaserial.com/movie-enemy",
+        "year": 2013,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/5/55/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%BE_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%22%D0%92%D0%BE%D1%80%D0%BE%D0%B3%22.jpg",
+        "genre": "Трилер"
+    },
+    "film48":{
+        "name": "Червоний штат",
+        "link": "https://uaserial.com/movie-red-state",
+        "year": 2011,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/1/1e/Red_State_Poster.jpg",
+        "genre": "Трилер"
+    },
+    "film49":{
+        "name": "Полонянки",
+        "link": "https://uaserial.com/movie-prisoners",
+        "year": 2013,
+        "cover":"https://upload.wikimedia.org/wikipedia/uk/9/99/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D1%83_%22%D0%9F%D0%BE%D0%BB%D0%BE%D0%BD%D1%8F%D0%BD%D0%BA%D0%B8%22.jpg",
+        "genre": "Трилер"
     }
 }
